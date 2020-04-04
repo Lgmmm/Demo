@@ -16,7 +16,8 @@ import java.util.Iterator;
  * Created by lgm
  * on 2020/4/2.
  * 非阻塞
- * 服务器向客户端传输照片
+ * 服务器向客户端传输照片123
+ 
  */
 public class NoBlockingNio {
     //服务端
